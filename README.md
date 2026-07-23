@@ -7,6 +7,10 @@ Golang AWS WAF challenge solver.
 
 This repository is an **improved version** of [`xKiian/awswaf`](https://github.com/xKiian/awswaf). Upstream has not been updated for a while.
 
+## Docs
+
+- [Usage](docs/usage.md)
+
 ## Disclaimer
 
 This package is **unofficial** and **not affiliated with Amazon or AWS**.
