@@ -10,7 +10,7 @@ package main
 import (
 	"log"
 
-	"github.com/andreyfesunov/awswaf/pkg/awswaf"
+	"github.com/andreyfesunov/awswaf"
 )
 
 func main() {
