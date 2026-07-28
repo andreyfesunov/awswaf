@@ -1,7 +1,7 @@
 # awswaf
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Go](https://img.shields.io/badge/Go-1.26-blue?logo=go)](https://golang.org/)
+[![Go](https://img.shields.io/badge/Go-1.25-blue?logo=go)](https://golang.org/)
 
 Golang AWS WAF challenge solver.
 
@@ -10,6 +10,7 @@ This repository is an **improved version** of [`xKiian/awswaf`](https://github.c
 ## Docs
 
 - [Usage](docs/usage.md)
+- [Benchmark (Stubhub - Search Page)](docs/benchmark.ipynb)
 
 ## Disclaimer
 
