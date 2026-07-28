@@ -1,6 +1,6 @@
 module github.com/andreyfesunov/awswaf
 
-go 1.26
+go 1.25.0
 
 require (
 	github.com/bogdanfinn/fhttp v0.6.8
